@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-restro/static/css/main.17655c3c.css",
+    "main.js": "/react-restro/static/js/main.9e1a87c0.js",
+    "index.html": "/react-restro/index.html",
+    "main.17655c3c.css.map": "/react-restro/static/css/main.17655c3c.css.map",
+    "main.9e1a87c0.js.map": "/react-restro/static/js/main.9e1a87c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17655c3c.css",
+    "static/js/main.9e1a87c0.js"
+  ]
+}
